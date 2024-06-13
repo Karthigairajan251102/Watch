@@ -1,0 +1,11 @@
+.view{
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    font-weight: 700;
+}
